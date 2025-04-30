@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2025-04-30 105315](https://github.com/user-attachments/assets/772a0f32-f522-412e-aa59-790d6d3f5341)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 30/4/25
 
@@ -46,7 +46,7 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:![Screenshot 2025-04-30 105921](https://github.com/user-attachments/assets/c5c07065-07e2-497d-bd50-5b2fe2a8aa95)
-           ![Screenshot 2025-04-30 105315](https://github.com/user-attachments/assets/c227d5a1-b71c-4110-be13-e2f04aaa6775)
+![Screenshot 2025-04-30 105315](https://github.com/user-attachments/assets/bc3270e4-81ec-4ed5-b60d-16774cecd210)
 
 
 ### Name:Avanthika M
