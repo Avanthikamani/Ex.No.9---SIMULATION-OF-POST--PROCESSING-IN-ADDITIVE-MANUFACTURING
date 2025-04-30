@@ -11,7 +11,7 @@
 ## PROCEDURE:
 
 ## Procedure for support removal
-### 1.	Select support removal from the list.
+### 1.	Select support removal from the list
 ### 2.	All the parts related to support removal are shown on the screen.
 ### 3.	Select the parts in sequence in which they are shown.
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
